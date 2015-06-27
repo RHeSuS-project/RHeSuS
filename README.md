@@ -1,6 +1,6 @@
 # RHeSuS
 ## Warning
-I'm currently performing a full rewrite of the project. I just decided to publish our (ancient) Proof of concept. Help and suggenstions are appreciated. The description below does not fully apply to the current state of the project.
+I'm currently performing a full rewrite of the project. I just decided to publish our (ancient) Proof of concept. Help and suggenstions are appreciated. The description below does not yet fully apply to the current state of the project.
 
 # What is RHeSuS
 
