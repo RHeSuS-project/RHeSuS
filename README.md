@@ -4,7 +4,7 @@ I'm currently performing a full rewrite of the project. I just decided to publis
 
 # What is RHeSuS
 
-RHeSuS is a high performance, component-based Statistical pattern recognition system for Structural Health Monitoring using time series modeling. It's mainly designed with with wearable technology in mind. The name RHeSuS is an equivoque for the "Rh blood group system". It can also be thought of as an abreviation for "Realtime Health Surveillance System".
+RHeSuS is a high performance, component-based Statistical pattern recognition system for Structural Health Monitoring using time series modeling. It's mainly designed with with wearable technology in mind. The name RHeSuS is an equivoque for the "Rh blood group system". It can also be thought of as an abbreviation for "Realtime Health Surveillance System".
 
 ## What is RHeSuS Best for?
 
